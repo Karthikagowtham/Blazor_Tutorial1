@@ -1,0 +1,61 @@
+﻿
+<h3>ChildComponent</h3>
+
+<input id="firstName" required="@Required" maxlength="@Maxlength" size="@Size"
+    placeholder="@Placeholder" />
+
+@code {
+    [Parameter]
+    public string Required { get; set; } = "required";
+
+    [Parameter]
+    public string Maxlength { get; set; } = "15";
+
+    [Parameter]
+    public string Size { get; set; } = "25";
+
+    [Parameter]
+    public string Placeholder { get; set; } = "Child Component Placeholder";
+}
+
+<h4>
+    attribute splatting
+</h4>
+
+
+
+<input id="firstName" @attributes="InputAttributes" />
+
+@code {
+    [Parameter]
+    public Dictionary<string, object> InputAttributes { get; set; } =
+        new Dictionary<string, object>()
+        {
+            { "required", "required" },
+            { "placeholder", "Child Component Placeholder" },
+            { "size", "100" },
+            { "maxlength", "15" }
+        };
+}
+
+
+<h6>
+    Declared Properties and Attribute splatting
+</h6>
+
+<input id="firstName1" @attributes="InputAttributes1" value="@Value"/>
+
+@code {
+    [Parameter]
+    public Dictionary<string, object> InputAttributes1 { get; set; } =
+        new Dictionary<string, object>()
+        {
+            { "required", "required" },
+            { "placeholder", "Child Component Placeholder" },
+            { "size", "100" },
+            { "maxlength", "15" }
+        };
+
+    [Parameter]
+    public string Value { get; set; } = "Child Value";
+}

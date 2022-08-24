@@ -1,0 +1,47 @@
+﻿@page "/parentcom"
+@inherits ParentBase
+
+<h3>Parent</h3>
+
+<ChildComponent required="required" maxlength="100" size="50"
+                placeholder="Parent Component Placeholder" >
+</ChildComponent>
+
+<h4>
+    attribute splatting
+</h4>
+
+<ChildComponent InputAttributes="attributesFromParent">
+</ChildComponent>
+
+@code {
+    public Dictionary<string, object> attributesFromParent { get; set; } =
+        new Dictionary<string, object>()
+        {
+            { "required", "required" },
+            { "placeholder", "Parent Component Placeholder" },
+            { "size", "50" },
+            { "maxlength", "5" }
+        };
+}
+
+
+
+<h6>
+    Declared Properties and Attribute splatting
+</h6>
+
+<ChildComponent InputAttributes="attributesFromParent1" Value="Parent Value">
+</ChildComponent>
+
+@code {
+    [Parameter]
+    public Dictionary<string, object> attributesFromParent1 { get; set; } =
+        new Dictionary<string, object>()
+        {
+            { "required", "required" },
+            { "placeholder", "Parent Component Placeholder" },
+            { "size", "50" },
+            { "maxlength", "5" }
+        };
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EmployeeManagement.Web
+build_property.ProjectDir = H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Web\

@@ -1,0 +1,118 @@
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\appsettings.json
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.exe
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.deps.json
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.runtimeconfig.json
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.pdb
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Humanizer.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Models.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Models.pdb
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.csproj.AssemblyReference.cache
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.AssemblyInfoInputs.cache
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.AssemblyInfo.cs
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.csproj.CoreCompileInputs.cache
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.Api.styles.css
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.csproj.CopyComplete
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\refint\EmployeeManagement.Api.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.pdb
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.genruntimeconfig.cache
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\ref\EmployeeManagement.Api.dll
+H:\Blazor\Projects\BlazerTutorial (3)\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\appsettings.json
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.exe
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.deps.json
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.runtimeconfig.json
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Api.pdb
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Humanizer.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Models.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\bin\Debug\net6.0\EmployeeManagement.Models.pdb
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.csproj.AssemblyReference.cache
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.AssemblyInfoInputs.cache
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.AssemblyInfo.cs
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.csproj.CoreCompileInputs.cache
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.Api.styles.css
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.csproj.CopyComplete
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\refint\EmployeeManagement.Api.dll
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.pdb
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\EmployeeManagement.Api.genruntimeconfig.cache
+H:\Blazor\Projects\BlazerTutorial\EmployeeManagement.Api\obj\Debug\net6.0\ref\EmployeeManagement.Api.dll

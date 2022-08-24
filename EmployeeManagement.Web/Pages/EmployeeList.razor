@@ -1,0 +1,38 @@
+﻿@page "/"
+@page "/employeelist"
+
+@using EmployeeManagement.Web.Services
+@attribute [Authorize]
+@inherits EmployeeListBase
+@inject HttpClient Http
+
+
+<h3>Employee List Count - @SelectedEmployeesCount</h3>
+
+<input type="checkbox" id="showFooter" @bind="ShowFooter" />
+<label for="showFooter">Show Footer</label>
+
+                  
+
+<textarea style="width:100%;padding:2px;">@MainLayout.token</textarea>
+@if (Employees == null)
+{
+    <div class="spinner"></div>
+}
+else
+{
+    <div class="card-deck">
+
+        @foreach (var employee in Employees)
+        {
+               <DisplayEmployee Employee="employee" ShowFooter="ShowFooter" OnEmployeeSelection="EmployeeSelectionChanged" 
+                   OnEmployeeDeleted="EmployeeDeleted">
+              </DisplayEmployee>
+
+             
+        }
+
+
+       
+    </div>
+}
